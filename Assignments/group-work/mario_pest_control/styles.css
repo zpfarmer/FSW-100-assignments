@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+}
+
+.header {
+    font-size: 40px;
+}
+
+.container {
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+    align-content: left;
+    justify-content: center;
+}
+
+.footer {
+    display: flexbox;
+    align-content: flex-end;
+}
